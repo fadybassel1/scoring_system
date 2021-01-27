@@ -50,9 +50,11 @@
                             </div>
                         </div>
                     </form>
+                    
                 </div>
             </div>
         </div>
+        <img width="50%" src="gift1.svg" alt="My SVG Icon">
     </div>
 </div>
 @endsection
